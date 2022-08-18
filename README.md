@@ -12,8 +12,9 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 
 ### Connect with me:
 
-[<img align="left" alt="DatVo | Facebook" width="22px" src="https://www.facebook.com/dat.vo.7549#gh-light-mode-only" />][facebook]
-[<img align="left" alt="DatVo | LinkedIn" width="22px" src="./img/linkedin-dark.svg" />][linkedin]
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/datvo10#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/datvo10#gh-dark-mode-only)
+[<img align="left" alt="DatVo | LinkedIn" width="22px" src="./img/icons8-facebook-f.svg" />][facebook]
 [![website](./img/instagram-light.svg)](https://www.instagram.com/datvo975#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/datvo975#gh-dark-mode-only)
 
@@ -46,7 +47,7 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/datvo10/
+[linkedin]: https://www.linkedin.com/in/datvo10
 [facebook]: https://www.facebook.com/dat.vo.7549
 [instagram]: https://www.instagram.com/datvo975
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
