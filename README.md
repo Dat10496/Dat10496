@@ -16,10 +16,10 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 [![website](./img/icons8-facebook.svg)](https://www.facebook.com/dat.vo.7549)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/datvo10)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/datvo10-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/datvo10/-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/datvo975-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/datvo975-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/datvo975/-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/datvo975/-dark-mode-only)
 
 ### Languages and Tools:
 
