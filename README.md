@@ -12,8 +12,7 @@ Welcome to my page, I'm Dat Vo, Fresher Developer, currently living in HCMC, Vie
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img//facebook.png)](https://www.facebook.com/dat.vo.7549-light-mode-only)
-[![website](<./img//facebook%20(1).png>)](https://www.facebook.com/dat.vo.7549-dark-mode-only)
+[![website](./img/icons8-facebook.svg)](https://www.facebook.com/dat.vo.7549-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/datvo10-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/datvo10-dark-mode-only)
