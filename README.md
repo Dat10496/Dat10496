@@ -12,9 +12,10 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 
 ### Connect with me:
 
-[<img align="left" alt="DatVo | Facebook" width="22px" src="./img/facebook-dark.svg" />][facebook]
+[<img align="left" alt="DatVo | Facebook" width="22px" src="https://www.facebook.com/dat.vo.7549#gh-light-mode-only" />][facebook]
 [<img align="left" alt="DatVo | LinkedIn" width="22px" src="./img/linkedin-dark.svg" />][linkedin]
-[<img align="left" alt="DatVo | Instagram" width="22px" src="./img/instagram-dark.svg" />][instagram]
+[![website](./img/instagram-light.svg)](https://www.instagram.com/datvo975#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/datvo975#gh-dark-mode-only)
 
 <br />
 
