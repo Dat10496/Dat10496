@@ -12,14 +12,9 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/icons8-facebook.svg)](https://www.facebook.com/dat.vo.7549)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/datvo10)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/datvo10/-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/datvo975/-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/datvo975/-dark-mode-only)
+[<img align="left" alt="DatVo | Facebook" width="22px" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="DatVo | LinkedIn" width="22px" src="./img/linkedin-dark.svg" />][linkedin]
+[<img align="left" alt="DatVo | Instagram" width="22px" src="./img/linkedin-dark.svg" />][instagram]
 
 ### Languages and Tools:
 
@@ -49,6 +44,8 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 </details>
 
 [linkedin]: https://www.linkedin.com/in/datvo10/
+[facebook]: https://www.facebook.com/dat.vo.7549
+[instagram]: https://www.instagram.com/datvo975
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
