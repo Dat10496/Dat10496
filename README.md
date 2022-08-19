@@ -14,7 +14,7 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/datvo10#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/datvo10#gh-dark-mode-only)
-[<img align="left" alt="DatVo | LinkedIn" width="24px" height="24px" src="./img/321-3211139_facebook-logo-icons-facebook-round-png.png" />](https://www.facebook.com/dat.vo.7549#gh-dark-mode-only)
+[<img align="left" alt="DatVo | LinkedIn" width="24px" height="24px" viewBox="0 0 24 24" src="./img/321-3211139_facebook-logo-icons-facebook-round-png.png" />](https://www.facebook.com/dat.vo.7549#gh-dark-mode-only)
 [![website](./img//icons8-facebook-f.svg)](https://www.facebook.com/dat.vo.7549#gh-light-mode-only)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/datvo975#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/datvo975#gh-dark-mode-only)
