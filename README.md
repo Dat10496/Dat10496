@@ -16,8 +16,6 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/datvo10#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/datvo975#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/datvo975#gh-light-mode-only)
-[<img align="left" alt="DatVo | LinkedIn" width="24px" height="24px" viewBox="0 0 24 24" src="./img/321-3211139_facebook-logo-icons-facebook-round-png.png" />](https://www.facebook.com/dat.vo.7549#gh-dark-mode-only)
-[![website](./img//icons8-facebook-f.svg)](https://www.facebook.com/dat.vo.7549#gh-light-mode-only)
 
 ### Languages and Tools:
 
@@ -40,7 +38,7 @@ I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dat10496&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="DatVo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dat10496&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
