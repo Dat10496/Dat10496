@@ -1,13 +1,13 @@
 # Hello world, Nice to see you!! 👋
 
 Welcome to my page!👋👋
-I'm Dat Vo, Fresher Developer, currently living in HCMC, VietNam
+I'm Dat Vo, Full-Stack Web Developer, currently living in HCMC, VietNam
 
 ## I'm Developer!!
 
 - 🌱 I’m ready learning everything 🤣
 - 👯 I’m seeking new suitable job position
-- 🥅 2022 Goals: Become a professional web developer
+- 🥅 2024 Goals: Become a professional web developer
 - ⚡ Fun fact: I love to drink coffee
 
 ### Connect with me:
